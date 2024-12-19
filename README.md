@@ -1,22 +1,33 @@
-<div align="center">
-  <!-- 동적 뱃지 -->
-  <div style="display: flex; justify-content: center; align-items: flex-end;">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="65" height="65" />
-  </div>
-<div>
+<h1 align="center"> welcome, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> to my HTML & CSS repo </h1>
 
-TOPICS 
+### 📚 Introduction
 
-## HTML 
-tag
-h1-h6
-p
-br
-img
-a
-div
-id
-class
+> This repository serves as a quick refresher or a comprehensive brush-up before interviews. It is thoughtfully curated to cover all the essential topics required for interview preparation, making it a reliable resource for revisiting key concepts
 
-## CSS 
+<h6 align="center">ALSO CHECKOUT: </h6>
+
+<p align="center">
+    <a href=""  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--HTML--CSS-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href="https://github.com/Developer-RONNIE/JS-Tutorial"  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--JavaScript--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href=""  align="left" alt="Github" title="github">
+        <img src="https://img.shields.io/badge/Complete--React--Tutorial-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    
+</p>
+
+## <a name="snippets"> 📃 Topics  </a>
+
+<details>
+<summary><code>HTML</code></summary>
+1. 
+2.
+3. 
+4. 
+</details> 
+<details>
+<summary><code>HTML</code></summary>
+</details>
