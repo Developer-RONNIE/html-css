@@ -54,13 +54,13 @@
 - ```<script type="module" src="script.js"></script>``` - Script with type module and src
 
 ## HTML tags for media
-<meta charset="utf-8">``` - Charset
-<meta name="viewport" content="width=device-width, initial-scale=1.0">``` - Viewport
-<meta name="description" content="Description">``` - Description
-<meta name="author" content="Author">``` - Author
-<meta name="keywords" content="Keywords">``` - Keywords
-<meta name="robots" content="index, follow">``` - Robots
-<meta name="googlebot" content="index, follow">``` - Googlebot
+- ```<meta charset="utf-8">``` - Charset
+- ```<meta name="viewport" content="width=device-width, initial-scale=1.0">``` - Viewport
+- ```<meta name="description" content="Description">``` - Description
+- ```<meta name="author" content="Author">``` - Author
+- ```<meta name="keywords" content="Keywords">``` - Keywords
+- ```<meta name="robots" content="index, follow">``` - Robots
+- ```<meta name="googlebot" content="index, follow">``` - Googlebot
 
 ## HTML5 attributes
 Some examples of HTML5 attributes are:
