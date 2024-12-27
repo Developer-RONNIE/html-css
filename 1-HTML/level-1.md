@@ -39,14 +39,41 @@ Emmet is a code snippets manager for VS Code. It is used to create HTML code fas
 ## Some common Emmet Shortcuts 
 - ``` ! ``` - Inserts a ``` <!DOCTYPE html> ``` tag
 - ``` h1 ``` - Inserts a ``` <h1> ``` tag
-- h2 - Inserts a <h2> tag
-- p - Inserts a <p> tag
-- img - Inserts an <img> tag
-- a - Inserts an <a> tag
-- ul - Inserts an <ul> tag
-- ul>li - Inserts a <li> tag inside an <ul> tag
-- ul>li>a - Inserts an <a> tag inside a <li> tag inside an <ul> tag
-- ul>li*3 - Inserts 3 <li> tags inside an <ul> tag
-- div - Inserts a <div> tag
-- div>p - Inserts a <p> tag inside a <div> tag
-- div>p*3 - Inserts 3 <p> tags inside a <div> tag
+- ```h2``` - Inserts a ```<h2>``` tag
+- ```p``` - Inserts a ```<p```> tag
+- ```img``` - Inserts an ```<img>``` tag
+- ```a``` - Inserts an ```<a>``` tag
+- ```ul``` - Inserts an ```<ul>``` tag
+- ```ul>li``` - Inserts a ```<li>``` tag inside an ```<ul>``` tag
+- ```ul>li>a``` - Inserts an ```<a>``` tag inside a ```<li>``` tag inside an ```<ul>``` tag
+- ```ul>li*3``` - Inserts 3 ```<li>``` tags inside an ```<ul>``` tag
+- ```div ```- Inserts a ```<div>``` tag
+- ```div>p``` - Inserts a ```<p>``` tag inside a ```<div>``` tag
+- ```div>p*3``` - Inserts 3 ```<p>``` tags inside a ```<div>``` tag
+
+## Basic HTML Page
+Let's disect the HTML page to understand it better 
+> You will learn more about ``` tags ``` in [level-2.md](https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-2.md)
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Page</title> 
+  </head>
+  <body>
+    <p>hello world</p> 
+  </body>
+</html>
+```
+
+## Comments in HTML
+This is part of code that should not be parsed.
+```<!-- This is an HTML Comment -->```
+
+## HTML is NOT case sensitive
+
+```<html>``` = ```<HTML>```
+
+```<head>``` = ```<HEAD>```
+
+```<body>``` = ```<BODY>```
