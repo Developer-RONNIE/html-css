@@ -72,14 +72,13 @@ Let's disect the HTML page to understand it better
 - ```</head>``` 
 - ```<body>``` - contains all data rendered by the browser
 - ```<p>hello world</p>``` - paragraph tag
-- ```</body>``` 
-- ```</html>``` 
 
 ## Comments in HTML
 This is part of code that should not be parsed.
 ```<!-- This is an HTML Comment -->```
 
 ## HTML is NOT case sensitive
+> HTML is generally case-insensitive, meaning tag and attribute names are usually interpreted regardless of their case, but lowercase is the recommended standard for better readability and maintainability.
 
 ```<html>``` = ```<HTML>```
 
