@@ -91,3 +91,7 @@ This is part of code that should not be parsed.
 ```<head>``` = ```<HEAD>```
 
 ```<body>``` = ```<BODY>```
+
+## Conclusion
+
+Emmit is a must-have tool for any web developer. BUT this does not mean you have to learn every single shortcut. You can use Emmit to create HTML code faster. NO ONE remembers all the shortcuts. We use then mostly by trial and error, and learning them as we go.
