@@ -66,7 +66,7 @@
 
 - Pre Tag- Used to display text as it is (without ignoring spaces & next line)
 
-```html
+
 &lt;pre&gt;
 This
 is a sample
