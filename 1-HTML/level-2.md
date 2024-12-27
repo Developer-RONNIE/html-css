@@ -67,11 +67,11 @@
 - Pre Tag- Used to display text as it is (without ignoring spaces & next line)
 
 ```html
-<pre>
+&lt;pre&gt;
 This
 is a sample
 text.
-</pre>```
+&lt;/pre&gt;
 
 ## HTML tags for text
 - ```<p>``` - Paragraph
