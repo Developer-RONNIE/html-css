@@ -37,8 +37,8 @@ Emmet is a code snippets manager for VS Code. It is used to create HTML code fas
 > Learn the shortcuts and just press the ! or tab or enter key to get the code you want.
 
 ## Some common Emmet Shortcuts 
-- ! - Inserts a <!DOCTYPE html> tag
-- h1 - Inserts a <h1> tag
+- ``` ! ``` - Inserts a ``` <!DOCTYPE html> ``` tag
+- ``` h1 ``` - Inserts a ``` <h1> ``` tag
 - h2 - Inserts a <h2> tag
 - p - Inserts a <p> tag
 - img - Inserts an <img> tag
