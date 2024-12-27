@@ -21,15 +21,19 @@
 
 ## <a name="snippets"> 📃 Topics  </a>
 
+<ul>
+  <li>
+    <code>HTML</code>
+    <ul>
+      <li><code>level 1</code></li>
+      <li><code>level 2</code></li>
+      <li><code>level 3</code></li>
+      <li><code>level 4</code></li>
+    </ul>
+  </li>
+</ul>
+
+
 <details>
-<summary><code>HTML</code></summary>
-```
-1. 
-2.
-3. 
-4. 
-```
-</details> 
-<details>
-<summary><code>HTML</code></summary>
+<summary><code>CSS</code></summary>
 </details>
