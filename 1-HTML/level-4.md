@@ -22,16 +22,45 @@
 - ```<li>``` - List item
 
 ## HTML tags for tables
+```<table>``` - Table
+```<tr>``` - Table row
+```<td>``` - Table cell
 
 ## HTML tags for forms
+```<form>``` - Form
+```<input>``` - Input field
+```<textarea>``` - Text area
+```<select>``` - Select box
+```<option>``` - Option
+```<button>``` - Button
 
 ## HTML tags for images
+```<img>``` - Image
+```<source>``` - Source
+```<picture>``` - Picture
+```<video>``` - Video
 
 ## HTML tags for scripts
+```<link>``` - Link
+```<meta>``` - Meta
+```<link rel="stylesheet">``` - Stylesheet
+```<link rel="icon">``` - Icon
 
 ## HTML tags for meta tags
+```<script>``` - Script
+```<script src="script.js"></script>``` - Script with src
+```<script async src="script.js"></script>``` - Script with async and src
+```<script defer src="script.js"></script>``` - Script with defer and src
+```<script type="module" src="script.js"></script>``` - Script with type module and src
 
 ## HTML tags for media
+<meta charset="utf-8">``` - Charset
+<meta name="viewport" content="width=device-width, initial-scale=1.0">``` - Viewport
+<meta name="description" content="Description">``` - Description
+<meta name="author" content="Author">``` - Author
+<meta name="keywords" content="Keywords">``` - Keywords
+<meta name="robots" content="index, follow">``` - Robots
+<meta name="googlebot" content="index, follow">``` - Googlebot
 
 ## HTML5 attributes
 Some examples of HTML5 attributes are:
