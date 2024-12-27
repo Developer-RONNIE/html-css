@@ -34,31 +34,59 @@
 
 ## Some Frequently Used Tags 
 - **Heading Tag** - Used to display headings in HTML
-<code> h1, h2, h3, h4, h5, h6 </code>
+```
+h1, h2, h3, h4, h5, h6 
+```
 
 - **Paragraph Tag** - Used to add paragraphs in HTML
-``` <p> This is a sample paragraph </p> ```
+``` 
+<p> This is a sample paragraph </p> 
+```
 
 - **Anchor Tag** - Used to add links to your page
-``` <a href="https://google.com"> Google </a>  ```
+``` 
+<a href="https://google.com"> Google </a>  
+```
 
 - **Image Tag** - Used to add images to your page
-```<img src="/image.png" alt="Random Image">```
+```
+<img src="/image.png" alt="Random Image">
+```
 
 - **Br Tag** - Used to add next line(line breaks) to your page
-```<br>```
+```
+<br>
+```
 
 - **Bold, Italic & Underline Tags** - Used to highlight text in your page
-``` <b> Bold </b> ```  <b> Bold </b>
-```<i> Italic </i> ``` <i> Italic </i>
-```<u> Underline </u> ``` <u> Underline </u>
+``` 
+<b> Bold </b> 
+```  
+<b> Bold </b>
+
+```
+<i> Italic </i> 
+``` 
+<i> Italic </i>
+
+```
+<u> Underline </u> 
+``` 
+<u> Underline </u>
 
 - **Big & Small Tags** - Used to display big & small text on your page
-```<big> Big </big>``` 
-```<small> Small </small>```
+```
+<big> Big </big>
+``` 
+
+```
+<small> Small </small>
+```
 
 - **Hr Tag** - Used to display a horizontal ruler, used to separate content
-``` <hr>```
+``` 
+<hr>
+```
 
 - **Subscript & Superscript Tag** - Used to display a horizontal ruler, used to separate content
 ```
