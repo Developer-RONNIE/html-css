@@ -30,7 +30,7 @@ You need a code editor to write HTML code.
 - HTML Snippets
 - Live Server
 
-## EMMIT HTML
+## EMMET HTML
 
 Emmet is a code snippets manager for VS Code. It is used to create HTML code faster. Emmet is a must-have tool for any web developer. In VS Code, Emmet is enabled by default. It works only after you have created a new HTML file.
 
