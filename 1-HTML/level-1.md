@@ -51,8 +51,14 @@ Emmet is a code snippets manager for VS Code. It is used to create HTML code fas
 - ```div>p``` - Inserts a ```<p>``` tag inside a ```<div>``` tag
 - ```div>p*3``` - Inserts 3 ```<p>``` tags inside a ```<div>``` tag
 
+## First HTML File
+
+Create a file named ```index.html``` and test out the following lessons.
+
+> It is the default name for a website's homepage
+
 ## Basic HTML Page
-Let's disect the HTML page to understand it better 
+Let's disect the HTML page to understand it better ``` ! ```  (shortcut)
 > You will learn more about ``` tags ``` in [level-2.md](https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-2.md)
 ```
 <!DOCTYPE html>
