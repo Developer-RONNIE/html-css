@@ -118,5 +118,29 @@ text.
 </pre>
 
 
+## Attributes examples
+
+```
+<p id="my-id" class="my-class">Hello world</p>
+<img src="image.jpg" alt="Image">
+<a href="https://www.google.com">Google</a>
+<input type="text" placeholder="Enter your name">
+<button>Click me</button> 
+```
+
+- ```id="my-id"``` - Adds an ```id``` attribute with the value my-id
+- ```.my-class``` - Adds a ```class``` attribute with the value my-class
+- ```src="image.jpg"``` - Adds a src attribute with the value image.jpg
+- ```alt="Image"``` - Adds an alt attribute with the value Image
+- ```href="https://www.google.com"``` - Adds a ```href``` attribute with the value https://www.google.com
+- ```type="text"``` - Adds a ```type``` attribute with the value text
+- ```placeholder="Enter your name"``` - Adds a ```placeholder``` attribute with the value Enter your name
+
+Some attributes are global attributes and can be used on any HTML tag. Some attributes are specific to certain tags and can only be used with that tag. For example, the ```href``` attribute is a specific attribute for the ```<a>``` tag, and the ```title``` attribute is a global attribute that can be used on any HTML tag.
+
+> We will be looking into attributes more in the next lesson.
+
+
+
 
 
