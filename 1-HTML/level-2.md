@@ -34,7 +34,7 @@
 
 ## Some Frequently Used Tags 
 - Heading Tag - Used to display headings in HTML
-<code> h1, h2. h3, h4, h5, h6 </code>
+<code> <h1> <h2> <h3> <h4> <h5> <h6> </code>
 
 
 
