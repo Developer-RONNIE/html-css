@@ -5,7 +5,10 @@
 - **Attribute** - An attribute is a piece of text that is placed inside the opening tag of an HTML element. It is used to provide additional information about the element.
 - **Element** - An element is a piece of text that is enclosed in angle brackets and can have attributes. It is used to define the content of an HTML document.
 
-> Let's understand with an example : <br>
+
+
+> Let's understand with an example : 
+<br>
 ```<p> This is a paragraph</p> ``` 
 in this line of code, 
 - **Tag:** ```<p>``` and ```</p>```
