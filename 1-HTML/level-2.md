@@ -7,7 +7,7 @@
 
 
 
-> Let's understand with an example:
+> Example 1:
 
 <code>&lt;p&gt; This is a paragraph&lt;/p&gt;</code>
 
@@ -17,7 +17,7 @@
     <li><strong>Content:</strong> "This is a paragraph"</li>
 </ul>
 
-> Let's understand with another example: 
+> Example 2:  
 
 <code>&lt;img src="myimage.jpg" alt="A beautiful landscape" width="300"&gt;</code>
 
@@ -31,12 +31,40 @@
             <li><code>width="300"</code></li>
         </ul>
 </ul>
-##
-##
-##
-##
-##
-##
-##
-##
+
+## Some Frequently Used Tags 
+- Heading Tag - Used to display headings in HTML
+<code>
+    <h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>  
+<h5></h5>
+<h6></h6>
+</code>
+
+
+
+## HTML tags for text
+- ```<p>``` - Paragraph
+- ```<span>``` - Span
+- ```<div>``` - Div
+- ```<a>``` - Anchor
+- ```<img>``` - Image
+- ```<br>``` - Break
+- ```<hr>``` - Horizontal rule
+- ```<b>``` - Bold
+- ```<i>``` - Italic
+- ```<u>``` - Underline
+- ```<strong>``` - Strong
+- ```<em>``` - Emphasis
+- ```<code>``` - Code
+- ```<pre>``` - Preformatted text
+
+## HTML tags for lists
+<ul> - Unordered list
+<ol> - Ordered list
+<li> - List item
+
+
 ##
