@@ -22,36 +22,36 @@
 - ```<li>``` - List item
 
 ## HTML tags for tables
-```<table>``` - Table
-```<tr>``` - Table row
-```<td>``` - Table cell
+- ```<table>``` - Table
+- ```<tr>``` - Table row
+- ```<td>``` - Table cell
 
 ## HTML tags for forms
-```<form>``` - Form
-```<input>``` - Input field
-```<textarea>``` - Text area
-```<select>``` - Select box
-```<option>``` - Option
-```<button>``` - Button
+- ```<form>``` - Form
+- ```<input>``` - Input field
+- ```<textarea>``` - Text area
+- ```<select>``` - Select box
+- ```<option>``` - Option
+- ```<button>``` - Button
 
 ## HTML tags for images
-```<img>``` - Image
-```<source>``` - Source
-```<picture>``` - Picture
-```<video>``` - Video
+- ```<img>``` - Image
+- ```<source>``` - Source
+- ```<picture>``` - Picture
+- ```<video>``` - Video
 
 ## HTML tags for scripts
-```<link>``` - Link
-```<meta>``` - Meta
-```<link rel="stylesheet">``` - Stylesheet
-```<link rel="icon">``` - Icon
+- ```<link>``` - Link
+- ```<meta>``` - Meta
+- ```<link rel="stylesheet">``` - Stylesheet
+- ```<link rel="icon">``` - Icon
 
 ## HTML tags for meta tags
-```<script>``` - Script
-```<script src="script.js"></script>``` - Script with src
-```<script async src="script.js"></script>``` - Script with async and src
-```<script defer src="script.js"></script>``` - Script with defer and src
-```<script type="module" src="script.js"></script>``` - Script with type module and src
+- ```<script>``` - Script
+- ```<script src="script.js"></script>``` - Script with src
+- ```<script async src="script.js"></script>``` - Script with async and src
+- ```<script defer src="script.js"></script>``` - Script with defer and src
+- ```<script type="module" src="script.js"></script>``` - Script with type module and src
 
 ## HTML tags for media
 <meta charset="utf-8">``` - Charset
