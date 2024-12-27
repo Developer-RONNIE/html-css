@@ -66,12 +66,17 @@
 
 - Pre Tag- Used to display text as it is (without ignoring spaces & next line)
 
-
-&lt;pre&gt;
-This
+``` 
+<pre> This
 is a sample
 text.
-&lt;/pre&gt;
+</pre>
+```
+OUTPUT : 
+<pre> This
+is a sample
+text.
+</pre>
 
 ## HTML tags for text
 - ```<p>``` - Paragraph
@@ -90,9 +95,9 @@ text.
 - ```<pre>``` - Preformatted text
 
 ## HTML tags for lists
-```<ul>``` - Unordered list
-```<ol>``` - Ordered list
-```<li>``` - List item
+- ```<ul>``` - Unordered list
+- ```<ol>``` - Ordered list
+- ```<li>``` - List item
 
 
 ##
