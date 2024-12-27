@@ -65,6 +65,15 @@ Let's disect the HTML page to understand it better
   </body>
 </html>
 ```
+- ```<!DOCTYPE html>``` - tells browser you are using HTML5
+- ```<html>``` - root of an html document
+- ```<head>``` - container for metadata
+- ```<title>My First Page</title>``` - page title
+- ```</head>``` 
+- ```<body>``` - contains all data rendered by the browser
+- ```<p>hello world</p>``` - paragraph tag
+- ```</body>``` 
+- ```</html>``` 
 
 ## Comments in HTML
 This is part of code that should not be parsed.
