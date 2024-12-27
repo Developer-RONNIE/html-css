@@ -26,24 +26,33 @@
     <code>HTML</code>
     <ul>
       <li>
-        <code>level 1</code>
-        <ul>
-          <li>- What is HTML?</li>
-          <li>- What is HTML?</li>
+        <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-1.md" target="_blank">Level 1</a>
+        <ul> 
+          <li> What is HTML?</li>
+          <li> What is HTML5?</li>
+          <li> Text/code Editor vs Word processor</li>
+          <li> Recommended text editors</li>
+          <li> Recommended code editor extensions</li>
+          <li> EMMET HTML</li>
+          <li> Some common Emmet Shortcuts</li>
+          <li> First HTML File</li>
+          <li> Basic HTML Page</li>
+          <li> Comments in HTML</li>
+          <li> HTML is NOT case sensitive</li>
         </ul>
       </li>
       <li>
         <code>level 2</code>
         <ul>
-          <li>- What is HTML?</li>
-          <li>- What is HTML?</li>
+          <li> What is HTML?</li>
+          <li> What is HTML?</li>
         </ul>
       </li>
       <li>
         <code>level 3</code>
         <ul>
-          <li>- What is HTML?</li>
-          <li>- What is HTML?</li>
+          <li> What is HTML?</li>
+          <li> What is HTML?</li>
         </ul>
       </li>
       <li>
