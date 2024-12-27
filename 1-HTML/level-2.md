@@ -14,15 +14,16 @@ in this line of code,
 
 > Let's understand with another example : 
 ```<p> This is a paragraph</p> ```
-- Tag: <img> and </img>
-- Element: <img src="myimage.jpg" alt="A beautiful landscape" width="300">
-- Attributes:
 <ul>
- <li>src="myimage.jpg"</li>
- <li>alt="A beautiful landscape"</li>
- <li>width="300""</li>
-<uL>
-
+  <li>Tag: <code>&lt;img&gt;</code> and <code>&lt;/img&gt;</code></li>
+  <li>Element: <code>&lt;img src="myimage.jpg" alt="A beautiful landscape" width="300"&gt;</code></li>
+  <li>Attributes:</li>
+    <ul>
+      <li><code>src="myimage.jpg"</code></li>
+      <li><code>alt="A beautiful landscape"</code></li>
+      <li><code>width="300"</code></li>
+    </ul>
+</ul>
 ##
 ##
 ##
