@@ -71,7 +71,7 @@
 This
 is a sample
 text.
-</pre>
+</pre>```
 
 ## HTML tags for text
 - ```<p>``` - Paragraph
