@@ -91,15 +91,17 @@ h1, h2, h3, h4, h5, h6
 - **Subscript & Superscript Tag** - Used to display a horizontal ruler, used to separate content
 ```
 <sub> subscript </sub>
+H <sub> 2 </sub> O
 ```
 OUTPUT: 
-<sub> subscript </sub>
+H <sub> 2 </sub> O
 
 ```
 <sup> superscript </sup>
+A <sup> n </sup> + B
 ```
 OUTPUT: 
-<sup> superscript </sup>
+A <sup> n </sup> + B
 
 - **Pre Tag**- Used to display text as it is (without ignoring spaces & next line)
 
