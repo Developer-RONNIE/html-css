@@ -117,26 +117,6 @@ is a sample
 text.
 </pre>
 
-## HTML tags for text
-- ```<p>``` - Paragraph
-- ```<span>``` - Span
-- ```<div>``` - Div
-- ```<a>``` - Anchor
-- ```<img>``` - Image
-- ```<br>``` - Break
-- ```<hr>``` - Horizontal rule
-- ```<b>``` - Bold
-- ```<i>``` - Italic
-- ```<u>``` - Underline
-- ```<strong>``` - Strong
-- ```<em>``` - Emphasis
-- ```<code>``` - Code
-- ```<pre>``` - Preformatted text
-
-## HTML tags for lists
-- ```<ul>``` - Unordered list
-- ```<ol>``` - Ordered list
-- ```<li>``` - List item
 
 
-##
+
