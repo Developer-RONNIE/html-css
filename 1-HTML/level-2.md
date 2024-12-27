@@ -7,25 +7,29 @@
 
 
 
-> Let's understand with an example : 
-<br>
-```<p> This is a paragraph</p> ``` 
-in this line of code, 
-- **Tag:** ```<p>``` and ```</p>```
-- **Element:** ```<p> This is a paragraph</p>``` ( this entire thing is an element)
-- **Content:** "This is a paragraph"
+> Let's understand with an example:
 
-> Let's understand with another example : <br>
-```<p> This is a paragraph</p> ```
+<code>&lt;p&gt; This is a paragraph&lt;/p&gt;</code>
+
 <ul>
-  <li>Tag: <code>&lt;img&gt;</code> and <code>&lt;/img&gt;</code></li>
-  <li>Element: <code>&lt;img src="myimage.jpg" alt="A beautiful landscape" width="300"&gt;</code></li>
-  <li>Attributes:</li>
-    <ul>
-      <li><code>src="myimage.jpg"</code></li>
-      <li><code>alt="A beautiful landscape"</code></li>
-      <li><code>width="300"</code></li>
-    </ul>
+    <li><strong>Tag:</strong> <code>&lt;p&gt;</code> and <code>&lt;/p&gt;</code></li>
+    <li><strong>Element:</strong> <code>&lt;p&gt; This is a paragraph&lt;/p&gt;</code> (this entire thing is an element)</li>
+    <li><strong>Content:</strong> "This is a paragraph"</li>
+</ul>
+
+> Let's understand with another example: 
+
+<code>&lt;img src="myimage.jpg" alt="A beautiful landscape" width="300"&gt;</code>
+
+<ul>
+    <li><strong>Tag:</strong> <code>&lt;img&gt;</code> and <code>&lt;/img&gt;</code></li>
+    <li><strong>Element:</strong> <code>&lt;img src="myimage.jpg" alt="A beautiful landscape" width="300"&gt;</code></li>
+    <li><strong>Attributes:</strong></li>
+        <ul>
+            <li><code>src="myimage.jpg"</code></li>
+            <li><code>alt="A beautiful landscape"</code></li>
+            <li><code>width="300"</code></li>
+        </ul>
 </ul>
 ##
 ##
