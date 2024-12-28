@@ -2,7 +2,7 @@
 
 ## List in HTML
 Lists are used to represent real life list data.
-- unordered
+1. unordered
 ```
 <ul>
    <li> Apple </li>
@@ -15,7 +15,7 @@ OUTPUT : <br>
    <li> Mango </li>
 </ul>
 
-- ordered
+2.  ordered
 ```
 <ol>
    <li> Apple </li>
@@ -47,18 +47,14 @@ Tables are used to represent real life table data.
 </table> 
 ```
 OUTPUT : <br>
-<tr>
-        <th> Name </th>
-        <th> Roll No </th>
-    </tr>
-    <tr>
-        <td> Ronnie </th>
-        <td> 3006 </th>
-    </tr>
+| Name | Roll No |
+| ------- | -------- |
+| Ronnie | 3006 |
 
-used to display table data
+- to display table data
+- used to display table header
 
-used to display table header
+
 ## Caption in Tables
 ```
 <caption> Student Data </caption>
@@ -66,20 +62,18 @@ used to display table header
 
 
 ## thead & tbody in Tables
-```
-<thead> to wrap table head
-```
 
-```
-<tbody> to wrap table body
-```
+```<thead>``` to wrap table head
+
+```<tbody>``` to wrap table body
+
 
 ## colspan attribute
 ```
 colspan="n"
 ```
 
-used to create cells which spans over multiple columns
+- used to create cells which spans over multiple columns
 
 ## Form in HTML
 Forms are used to collect data from the user <br>
