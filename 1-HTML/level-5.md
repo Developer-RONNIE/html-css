@@ -34,6 +34,7 @@
 ```
 
 ## Textarea
+- Allows users to input multi-line text, commonly used for comments or longer forms of input
 ```
 <textarea name="feedback" id="feedback" placeholder="Please add Feedback">
 </textarea>
