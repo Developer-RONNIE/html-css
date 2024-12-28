@@ -60,7 +60,7 @@ OUTPUT : <br>
 <caption> Student Data </caption>
 ```
 OUTPUT: <br>
-<caption>Student Data</caption>
+<code> <caption>Student Data</caption> </code>
 | Name | Roll No |
 | ------- | -------- |
 | Ronnie | 3006 |
