@@ -24,29 +24,28 @@
 <details>
 <summary>&#x1F4C4; HTML</summary>
 
+
 <ul>
   <li>
-    <ul>
-      <li>
-        <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-1.md" target="_blank">Level 1</a>
-        <details>
-          <summary>Content</summary>
-          <ul> 
-            <li> What is HTML?</li>
-            <li> What is HTML5?</li>
-            <li> Text/code Editor vs Word processor</li>
-            <li> Recommended text editors</li>
-            <li> Recommended code editor extensions</li>
-            <li> EMMET HTML</li>
-            <li> Some common Emmet Shortcuts</li>
-            <li> First HTML File</li>
-            <li> Basic HTML Page</li>
-            <li> Comments in HTML</li>
-            <li> HTML is NOT case sensitive</li>
-          </ul>
-        </details>
-      </li>
-      <li>
+    <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-1.md" target="_blank">Level 1</a>
+    <details>
+      <summary>Content</summary>
+      <ul> 
+        <li> What is HTML?</li>
+        <li> What is HTML5?</li>
+        <li> Text/code Editor vs Word processor</li>
+        <li> Recommended text editors</li>
+        <li> Recommended code editor extensions</li>
+        <li> EMMET HTML</li>
+        <li> Some common Emmet Shortcuts</li>
+        <li> First HTML File</li>
+        <li> Basic HTML Page</li>
+        <li> Comments in HTML</li>
+        <li> HTML is NOT case sensitive</li>
+      </ul>
+    </details>
+  </li>
+  <li>
         <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-2.md" target="_blank">Level 2</a>
         <details>
           <summary>Content</summary>
@@ -58,19 +57,19 @@
         </details>
       </li>
       <li>
-        <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-3.md" target="_blank">Level 3</a>
-        <details>
-          <summary>Content</summary>
-          <ul>
-            <li> What is HTML?</li>
-            <li> What is HTML?</li>
-          </ul>
-        </details>
-      </li>
-      <li>
-        <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-4.md" target="_blank">Level 4</a>
-        <details>
-          <summary>Content</summary>
+    <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-3.md" target="_blank">Level 3</a>
+    <details>
+      <summary>Content</summary>
+      <ul>
+        <li> What is HTML?</li>
+        <li> What is HTML?</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-4.md" target="_blank">Level 4</a>
+    <details>
+      <summary>Content</summary>
           <ul>
             <li>- What is HTML?</li>
             <li>- What is HTML?</li>
@@ -81,23 +80,21 @@
         <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-5.md" target="_blank">Level 5</a>
         <details>
           <summary>Content</summary>
-          <ul>
+      <ul>
             <li>- What is HTML?</li>
             <li>- What is HTML?</li>
-          </ul>
-        </details>
-      </li>
-      <li>
-        <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-6-summary.md" target="_blank">Level 6</a>
-        <details>
-          <summary>Content</summary>
-          <ul>
-            <li>- What is HTML?</li>
-            <li>- What is HTML?</li>
-          </ul>
-        </details>
-      </li>
-    </ul>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-6-summary.md" target="_blank">Level 6</a>
+    <details>
+      <summary>Content</summary>
+      <ul>
+        <li>- What is HTML?</li>
+        <li>- What is HTML?</li>
+      </ul>
+    </details>
   </li>
 </ul>
 </details>
