@@ -141,6 +141,13 @@ Some attributes are global attributes and can be used on any HTML tag. Some attr
 > We will be looking into attributes more in the next lesson.
 
 
+## Quick Points to remember 
+- Html tag is parent of head & body tag
+- Most of html elements have opening & closing tags with content in between
+- Some tags have no content in between, eg - ```<br>```
+- We can use inspect element/view page source to edit html
+
+
 
 
 
