@@ -59,7 +59,11 @@ OUTPUT : <br>
 ```
 <caption> Student Data </caption>
 ```
-
+OUTPUT: <br>
+<caption>Student Data</caption>
+| Name | Roll No |
+| ------- | -------- |
+| Ronnie | 3006 |
 
 ## thead & tbody in Tables
 
