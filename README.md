@@ -24,9 +24,6 @@
 <details>
 <summary>&#x1F4C4; HTML</summary>
 
-<ul>
-  <li>
-    <code>HTML</code>
     <ul>
       <li>
         <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-1.md" target="_blank">Level 1</a>
@@ -99,8 +96,7 @@
         </details>
       </li>
     </ul>
-  </li>
-</ul>
+  
 </details>
 
 <details>
