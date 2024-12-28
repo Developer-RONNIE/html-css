@@ -20,6 +20,7 @@ using the Right Tags
 > To illustrate the potential contents of the ```<main>``` tag
 
 - Section Tag - For a section on your page
+```
 <section>
 ```
 - Article Tag - For an article on your page
