@@ -61,8 +61,14 @@
     <details>
       <summary>Content</summary>
       <ul>
-        <li> What is HTML?</li>
-        <li> What is HTML?</li>
+        <li> Page Layout Techniques</li>
+        <li> Inside Main Tag </li>
+        <li> Revisiting Anchor Tag </li>
+        <li> Revisiting Image Tag </li>
+        <li> Div Tag </li>
+        <li> List : Div Tags </li>
+        <li> Span Tag </li>
+        <li> List : Span Tags</li>
       </ul>
     </details>
   </li>
@@ -71,8 +77,13 @@
     <details>
       <summary>Content</summary>
           <ul>
-            <li>- What is HTML?</li>
-            <li>- What is HTML?</li>
+            <li> List in HTML </li>
+            <li> Tables in HTML </li>
+            <li> Caption in Tables </li>
+            <li> colspan attribute </li>
+            <li> Form in HTML </li>
+            <li> Action in Form </li>
+            <li> Form Element : Input</li>
           </ul>
         </details>
       </li>
@@ -81,8 +92,13 @@
         <details>
           <summary>Content</summary>
       <ul>
-            <li>- What is HTML?</li>
-            <li>- What is HTML?</li>
+        <li> Label</li>
+        <li> Class & Id </li>
+        <li> Checkbox </li>
+        <li> Textarea </li>
+        <li> Select </li>
+        <li> iframe Tag </li>
+        <li> Video Tag </li>
       </ul>
     </details>
   </li>
@@ -91,8 +107,19 @@
     <details>
       <summary>Content</summary>
       <ul>
-        <li>- What is HTML?</li>
-        <li>- What is HTML?</li>
+        <li> HTML tags for text</li>
+        <li> HTML tags for lists</li>
+        <li> HTML tags for tables</li>
+        <li> HTML tags for forms</li>
+        <li> HTML tags for images</li>
+        <li> HTML tags for scripts</li>
+        <li> HTML tags for meta tags</li>
+        <li> HTML tags for media</li>
+        <li> HTML5 attributes</li>
+        <li> HTML5 tags</li>
+        <li> ID and Class</li>
+        <li> Grouping</li>
+        <li> CSS shortcuts</li>
       </ul>
     </details>
   </li>
