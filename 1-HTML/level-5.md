@@ -63,7 +63,7 @@ website inside website
 <video src="myVid.mp4"> My Video </video>
 ```
 
-Attributes
+Attributes of Video Tag 
 - ```controls``` : Displays built-in media controls (play/pause, volume, etc.).
 - ```height``` : Sets the height of the video player.
 - ```width``` : Sets the width of the video player.
