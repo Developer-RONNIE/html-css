@@ -89,7 +89,7 @@ margin: 1px 2px 3px 4px;
 ### Q2: Create the following navbar.
 
 <div align="center">
-<img src="https://github.com/Developer-RONNIE/cloudvault/blob/main/public/assets/icons/git-banner.png" alt="Project Banner">
+<img src="https://github.com/Developer-RONNIE/html-css/blob/main/assets/q.png" alt="Project Banner">
 </div>
 
 ## Display Property
