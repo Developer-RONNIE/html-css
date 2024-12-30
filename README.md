@@ -126,6 +126,54 @@
 </ul>
 </details>
 
-<details>
-<summary>&#x1F4C8; CSS</summary>
+<ul>
+  <li>
+    <a href="" target="_blank">Level 1</a>
+    <details>
+      <summary>Content</summary>
+      <ul>
+      </ul>
+    </details>
+  </li>
+  <li>
+        <a href="" target="_blank">Level 2</a>
+        <details>
+          <summary>Content</summary>
+          <ul>
+          </ul>
+        </details>
+      </li>
+      <li>
+    <a href="" target="_blank">Level 3</a>
+    <details>
+      <summary>Content</summary>
+      <ul>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <a href="" target="_blank">Level 4</a>
+    <details>
+      <summary>Content</summary>
+          <ul>
+          </ul>
+        </details>
+      </li>
+      <li>
+        <a href="" target="_blank">Level 5</a>
+        <details>
+          <summary>Content</summary>
+      <ul>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <a href="" target="_blank"> Projects</a>
+    <details>
+      <summary>Content</summary>
+      <ul>
+      </ul>
+    </details>
+  </li>
+</ul>
 </details>
