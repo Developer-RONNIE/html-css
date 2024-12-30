@@ -16,8 +16,7 @@ margin-left : 50% ;
 ## Em & Rem (Root Em)
 | Unit | Relative to | 
 |---------- | --------------------------------------------------------------------------------------------------------------------|
-| em | Font size of the parent, in the case of typographical properties like font-size, and
-font size of the element itself, in the case of other properties like width. |
+| em | Font size of the parent, in the case of typographical properties like font-size, and font size of the element itself, in the case of other properties like width. |
 | rem | Font size of the root element (usually ```html```) |
 
 ## Others
