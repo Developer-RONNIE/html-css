@@ -88,6 +88,10 @@ margin: 1px 2px 3px 4px;
 - Set its background color to green & the border radius to 50%.
 ### Q2: Create the following navbar.
 
+<div align="center">
+<img src="https://github.com/Developer-RONNIE/cloudvault/blob/main/public/assets/icons/git-banner.png" alt="Project Banner">
+</div>
+
 ## Display Property
 
 ```
