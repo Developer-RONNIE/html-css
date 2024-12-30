@@ -23,8 +23,6 @@
 
 <details>
 <summary>&#x1F4C4; HTML</summary>
-
-
 <ul>
   <li>
     <a href="https://github.com/Developer-RONNIE/html-css/blob/main/1-HTML/level-1.md" target="_blank">Level 1</a>
@@ -126,52 +124,103 @@
 </ul>
 </details>
 
+<details>
+<summary>&#x1F4C4; CSS</summary>
 <ul>
   <li>
-    <a href="" target="_blank">Level 1</a>
+    <a href="https://github.com/Developer-RONNIE/html-css/blob/main/2-CSS/1-notes/level-1.md" target="_blank">Level 1</a>
     <details>
       <summary>Content</summary>
-      <ul>
+      <ul> 
+        <li> What is CSS? </li>
+        <li> Basic Syntax</li>
+        <li> Including Style</li>
+        <li> Color Property</li>
+        <li> Background Color Property</li>
+        <li> Color Systems</li>
+        <li> Selectors</li>
+        <li> Practice Set 1</li>
+        <li> Text Properties</li>
+        <li> Units in CSS</li>
+        <li> Text Properties</li>
+        <li> Practice Set 2</li>
       </ul>
     </details>
   </li>
   <li>
-        <a href="" target="_blank">Level 2</a>
+        <a href="https://github.com/Developer-RONNIE/html-css/blob/main/2-CSS/1-notes/level-2.md" target="_blank">Level 2</a>
         <details>
           <summary>Content</summary>
           <ul>
+            <li> Box Model in CSS</li>
+            <li> Height</li>
+            <li> Width</li>
+            <li> Border</li>
+            <li> Padding</li>
+            <li> Margin</li>
+            <li> Practice Set 3</li>
+            <li> Display Property</li>
+            <li> Visibility</li>
+            <li> Alpha Channel</li>
+            <li> Practice Set 4</li>
           </ul>
         </details>
       </li>
       <li>
-    <a href="" target="_blank">Level 3</a>
+    <a href="https://github.com/Developer-RONNIE/html-css/blob/main/2-CSS/1-notes/level-3.md" target="_blank">Level 3</a>
     <details>
       <summary>Content</summary>
       <ul>
+        <li> Units in CSS</li>
+        <li> Percentage (%) </li>
+        <li> Em & Rem (Root Em)</li>
+        <li> Others</li>
+        <li> Position</li>
+        <li> z-index </li>
+        <li> Background Image</li>
+        <li> Background Size </li>
+        <li> Practice Set 5</li>
       </ul>
     </details>
   </li>
   <li>
-    <a href="" target="_blank">Level 4</a>
+    <a href="https://github.com/Developer-RONNIE/html-css/blob/main/2-CSS/1-notes/level-4.md" target="_blank">Level 4</a>
     <details>
       <summary>Content</summary>
           <ul>
+            <li> Flexbox </li>
+            <li> The Flex Model</li>
+            <li> Flexbox Direction</li>
+            <li> Flex Properties for Flex Item</li>
+            <li> Flex Properties for Flex Container</li>
+            <li> Practice Set 6</li>
+            <li> Media Queries </li>
+            <li> Practice Set 7</li>
           </ul>
         </details>
       </li>
       <li>
-        <a href="" target="_blank">Level 5</a>
+        <a href="https://github.com/Developer-RONNIE/html-css/blob/main/2-CSS/1-notes/level-5.md" target="_blank">Level 5</a>
         <details>
           <summary>Content</summary>
       <ul>
+        <li> Transitions</li>
+        <li> Transition Shorthand </li>
+        <li> CSS Transform</li>
+        <li> Animation</li>
+        <li> Animation Properties</li>
+        <li> Animation Shorthand</li>
+        <li> % in Animation</li>
+        <li> Practice Set 8</li>
       </ul>
     </details>
   </li>
   <li>
-    <a href="" target="_blank"> Projects</a>
+    <a href="https://github.com/Developer-RONNIE/html-css/tree/main/2-CSS/2-projects/" target="_blank">Level 6</a>
     <details>
       <summary>Content</summary>
       <ul>
+        <li> [starter coding pack](https://github.com/Developer-RONNIE/html-css/tree/main/2-CSS/2-projects/starter) </li>
       </ul>
     </details>
   </li>
