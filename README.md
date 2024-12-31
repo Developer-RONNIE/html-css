@@ -221,7 +221,7 @@
       <summary>Content</summary>
       <ul>
         <li> Starter Pack 
-        <a href="https://github.com/Developer-RONNIE/html-css/tree/main/2-CSS/2-projects/starter"   alt="" title="github"> Starter Pack</a> 
+        <a href="https://github.com/Developer-RONNIE/html-css/tree/main/2-CSS/2-projects/starter"   alt="" title="github"> Download Here </a> 
         </li>
       </ul>
     </details>
