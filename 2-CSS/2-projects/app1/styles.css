@@ -1,6 +1,34 @@
 /* ================================ */
 /* 1. Selectors & Basic Properties - Hero Section */
 /* ================================ */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Element Selector */
+body {
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+/* Class Selector */
+.hero {
+    padding: 100px;
+}
+
+.hero__title {
+    color: black;
+}
+
+.hero__description {
+    color: #81da76;
+}
+
+/* Class Selector */
+#hero__highlight {
+    color: #dbfbe0;
+}
 
 /* ================================ */
 /* 2. Fonts - Features Section */
