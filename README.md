@@ -1,4 +1,4 @@
-<h1 align="center"> welcome, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> to my HTML & CSS repo </h1>
+<h1 align="center"> Welcome, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> to my HTML & CSS repo </h1>
 
 ### 📚 Introduction
 
@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href=""  align="left" alt="Github" title="github">
-     <img src="https://img.shields.io/badge/Complete--HTML--CSS-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+     <img src="https://img.shields.io/badge/Complete--JavaScript--Tutorial-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
   <a href="https://github.com/Developer-RONNIE/JS-Tutorial"  align="left" alt="Github" title="github">
-     <img src="https://img.shields.io/badge/Complete--JavaScript--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+     <img src="https://img.shields.io/badge/Complete--React--Tutorial-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
   <a href=""  align="left" alt="Github" title="github">
-     <img src="https://img.shields.io/badge/Complete--React--Tutorial-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+     <img src="https://img.shields.io/badge/Complete--Tailwind--Tutorial-D2B48C?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
   
 </p>
@@ -225,7 +225,7 @@
         <li>  Get Starter Pack 
         <a href="https://github.com/Developer-RONNIE/html-css/tree/main/assets"   alt="Starter Pack" title="github"> Download Here </a> 
         </li>
-        <li>  Project 1 
+        <li>  Project 1 - Simple Landing Page 
         <a href="https://github.com/Developer-RONNIE/html-css/tree/main/3-Projects/app1"   alt="Starter Pack" title="github"> Check Final Code Here  </a> 
         <ul>
           <li> Selectors  </li>
@@ -238,7 +238,7 @@
           <li> Nav & Footer </li>
         </ul>
         </li>
-        <li>  Project 2 
+        <li>  Project 2 - Compplex Newsletter Page 
         <a href="https://github.com/Developer-RONNIE/html-css/tree/main/3-Projects/app2"   alt="Starter Pack" title="github"> Check Final Code Here  </a> 
         </li>
       </ul>
@@ -250,5 +250,12 @@
 
 
 ## <a name="details"> ⚙ Project Details   </a>
+
+#### How to build the project 
+- Open **App 1** or **App 2**, navigate to the `index.html` file, and locate the commented-out topics. Match these numbers with the corresponding sections in the `style.css` file.  
+
+- Once you’ve identified the commented numbering in both `index.html` and `style.css`, begin building the application step by step, following the sequence.  
+
+- If you notice that some commented numbers are not in sequence, don’t worry. Skip those sections for now and continue building, as those numbers will be addressed later in the process.  
 
 > <p><strong>Disclaimer ⚠ :</strong> This project is for educational purposes only. Please do not use it for commercial applications without proper modifications.</p>
