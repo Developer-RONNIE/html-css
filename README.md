@@ -251,11 +251,12 @@
 
 ## <a name="details"> ⚙ Project Details   </a>
 
-#### How to build the project 
+> <p><strong>Disclaimer ⚠ :</strong> This project is for educational purposes only. Please do not use it for commercial applications without proper modifications.</p>
+
+
+#### How to build the project ❓
 - Open **App 1** or **App 2**, navigate to the `index.html` file, and locate the commented-out topics. Match these numbers with the corresponding sections in the `style.css` file.  
 
 - Once you’ve identified the commented numbering in both `index.html` and `style.css`, begin building the application step by step, following the sequence.  
 
 - If you notice that some commented numbers are not in sequence, don’t worry. Skip those sections for now and continue building, as those numbers will be addressed later in the process.  
-
-> <p><strong>Disclaimer ⚠ :</strong> This project is for educational purposes only. Please do not use it for commercial applications without proper modifications.</p>
