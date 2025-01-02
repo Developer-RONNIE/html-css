@@ -216,12 +216,28 @@
     </details>
   </li>
   <li>
-    <a href="https://github.com/Developer-RONNIE/html-css/tree/main/2-CSS/2-projects/" target="_blank">Level 6</a>
+    <a href="https://github.com/Developer-RONNIE/html-css/tree/main/2-CSS/2-projects/" target="_blank">Level 6 - Projects </a>
     <details>
       <summary>Content</summary>
       <ul>
-        <li> Starter Pack 
-        <a href="https://github.com/Developer-RONNIE/html-css/tree/main/2-CSS/2-projects/starter"   alt="" title="github"> Download Here </a> 
+        <li>  Get Starter Pack 
+        <a href="https://github.com/Developer-RONNIE/html-css/tree/main/assets"   alt="Starter Pack" title="github"> Download Here </a> 
+        </li>
+        <li>  Project 1 
+        <a href="https://github.com/Developer-RONNIE/html-css/tree/main/3-Projects/app1"   alt="Starter Pack" title="github"> Check Final Code Here  </a> 
+        <ul>
+          <li> Selectors  </li>
+          <li> Fonts and Typography  </li>
+          <li> Colors  </li>
+          <li> Box Model  </li>
+          <li> Flexbox  </li>
+          <li> Form  </li>
+          <li> Images & Finalizing App  </li>
+          <li> Nav & Footer </li>
+        </ul>
+        </li>
+        <li>  Project 2 
+        <a href="https://github.com/Developer-RONNIE/html-css/tree/main/3-Projects/app2"   alt="Starter Pack" title="github"> Check Final Code Here  </a> 
         </li>
       </ul>
     </details>
