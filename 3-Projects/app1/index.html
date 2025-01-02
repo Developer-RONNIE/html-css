@@ -84,5 +84,42 @@
           <div class="programs__card"></div>
         </div>
        </section>
+
+       <!-- 6. HTML Elements & Images - Form Section  -->
+        <section class="element">
+          <div class="element__left">
+            <div class="element__placeholder">  
+            </div>
+          </div>
+          <div class="element__right">
+            <h2>Sign Up Today!</h2>
+            <p class="element__subtitle">Fill out the form below to sign up for our newsletter and recieve updates.</p>
+            <form class="element__form">
+              <h3>Your Interests:</h3>
+              <ul class="element__list">
+                <li class="element__list-item">Web Development</li>
+                <li class="element__list-item"> UI UX Design</li>
+                <li class="element__list-item">Digital Marketing</li>
+              </ul>
+
+              <div class="element__form-group">
+                <label for="username"> Username: </label>
+                <input type="text" id="username" placeholder="Enter your username">
+              </div>
+
+              <div class="element__form-group">
+                <label for="username"> Select Course: </label>
+                <select  id="course">
+                  <option value="">Choose a course</option>
+                  <option value="web">Web Development</option>
+                  <option value="ui">UI UX Design</option>
+                  <option value="digital">Digital Marketing</option>
+                </select>
+              </div>
+
+              <button type="submit" class="element__button">Submit</button>
+            </form>
+          </div>
+        </section>
   </body>
 </html>
