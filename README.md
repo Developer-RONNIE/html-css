@@ -19,7 +19,9 @@
   
 </p>
 
-## <a name="snippets"> 📃 Topics  </a>
+
+
+## <a name="Topics"> 📃 Topics  </a>
 
 <details>
 <summary>&#x1F4C4; HTML</summary>
@@ -234,8 +236,6 @@
           <li> Form  </li>
           <li> Images & Finalizing App  </li>
           <li> Nav & Footer </li>
-
-          > Disclaimer: This project is for educational purposes only. Please do not use it for commercial applications without proper modifications.
         </ul>
         </li>
         <li>  Project 2 
@@ -246,3 +246,9 @@
   </li>
 </ul>
 </details>
+
+
+
+## <a name="details"> ⚙ Project Details   </a>
+
+> <p><strong>Disclaimer ⚠ :</strong> This project is for educational purposes only. Please do not use it for commercial applications without proper modifications.</p>
