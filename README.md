@@ -234,6 +234,8 @@
           <li> Form  </li>
           <li> Images & Finalizing App  </li>
           <li> Nav & Footer </li>
+
+          > Disclaimer: This project is for educational purposes only. Please do not use it for commercial applications without proper modifications.
         </ul>
         </li>
         <li>  Project 2 
